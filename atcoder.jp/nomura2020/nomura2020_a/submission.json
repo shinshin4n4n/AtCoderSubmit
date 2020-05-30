@@ -1,0 +1,12 @@
+{
+	"id": 13724465,
+	"epoch_second": 1590840877,
+	"problem_id": "nomura2020_a",
+	"contest_id": "nomura2020",
+	"user_id": "shinshin4n4n",
+	"language": "C# (.NET Core 3.1.201)",
+	"point": 100,
+	"length": 629,
+	"result": "AC",
+	"execution_time": 65
+}
