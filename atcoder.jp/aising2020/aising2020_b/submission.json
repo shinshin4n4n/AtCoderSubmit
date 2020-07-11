@@ -1,0 +1,12 @@
+{
+	"id": 15154257,
+	"epoch_second": 1594469352,
+	"problem_id": "aising2020_b",
+	"contest_id": "aising2020",
+	"user_id": "shinshin4n4n",
+	"language": "C# (.NET Core 3.1.201)",
+	"point": 200,
+	"length": 511,
+	"result": "AC",
+	"execution_time": 91
+}
