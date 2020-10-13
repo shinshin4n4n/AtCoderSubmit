@@ -1,0 +1,12 @@
+{
+	"id": 17377042,
+	"epoch_second": 1602570198,
+	"problem_id": "panasonic2020_a",
+	"contest_id": "panasonic2020",
+	"user_id": "shinshin4n4n",
+	"language": "C# (.NET Core 3.1.201)",
+	"point": 100,
+	"length": 469,
+	"result": "AC",
+	"execution_time": 94
+}
