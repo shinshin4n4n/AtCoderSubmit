@@ -1,0 +1,12 @@
+{
+	"id": 17523377,
+	"epoch_second": 1603089805,
+	"problem_id": "tenka1_2019_b",
+	"contest_id": "tenka1-2019-beginner",
+	"user_id": "shinshin4n4n",
+	"language": "C# (.NET Core 3.1.201)",
+	"point": 200,
+	"length": 711,
+	"result": "AC",
+	"execution_time": 90
+}
